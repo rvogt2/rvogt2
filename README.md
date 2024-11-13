@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there!
+Allow me to introduce myself, and this account
+this account is essentially built-upon portfolio.
 
-<!--
-**rvogt2/rvogt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Here is my card!
+Rhyse Vogt
+972-849-5735
+rhyse.vogt@rocketmail.com
 
-Here are some ideas to get you started:
+I have went to college for coding, and now I'm working towards making use of a
+bootcamp to get into the field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm inspired by the background of a dedicated product, for example; the behind
+the scenes of something. It's often crazier than the product itself.
